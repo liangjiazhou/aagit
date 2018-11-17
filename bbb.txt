@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 wsxhdschdcjdsj
-7894561230
+hdschdcjdsj
+qaz
+=======
+hdschdcjdsj
+qaz
+>>>>>>> dev1
 njncjknsckmk
 1245678
 ppppppppppp
